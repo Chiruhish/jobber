@@ -19,7 +19,9 @@ This project is a comprehensive **Job Search and Posting Platform** built with *
    - **TF-IDF** – Achieved **89% accuracy**  
    - **Word2Vec** – Achieved **82% accuracy**  
 - A logistic regression model was used to train and classify job listings.  
-- Conducted extensive comparative analysis to determine the best-performing embedding method (TF-IDF outperformed others by 24% over Count Vectorizer and 7% over Word2Vec).  
+- Conducted extensive comparative analysis to determine the best-performing embedding method (TF-IDF outperformed others by 24% over Count Vectorizer and 7% over Word2Vec).
+
+  * Note the data and the word embedding models can be obtained on request as its locally trained and the data is confidentail.
 
 ---
 
